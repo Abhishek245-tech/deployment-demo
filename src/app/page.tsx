@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <>hello there!!</>
+    <>you are a good boy !!!!!</>
   );
 }
